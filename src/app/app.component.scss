@@ -1,0 +1,17 @@
+:host {
+    
+    display: block;
+    padding: 20px;
+
+    .container {
+        border: 2px solid dimgray;
+        box-sizing: content-box;
+        width: fit-content;
+        padding: 20px;
+    }
+    .mat-button {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+}
+
